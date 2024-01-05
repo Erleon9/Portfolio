@@ -1,0 +1,8 @@
+/* app global css */
+/* Añade la fuente desde Google Fonts a través de una CDN */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+
+/* Utiliza la fuente en tu aplicación */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
